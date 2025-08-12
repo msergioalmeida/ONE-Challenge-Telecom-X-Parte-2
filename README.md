@@ -1,4 +1,4 @@
-# ONE-Challenge-Telecom-X-Parte-2
+# ONE Challenge Telecom X Parte 2
 
 # 📊 Análise e Previsão de Evasão de Clientes – Telecom X
 
@@ -24,6 +24,9 @@ Cada modelo foi avaliado com as técnicas de **Oversampling** e **Undersampling*
 | KNN + Undersampling   | 0.7718  |
 | KNN + Oversampling    | 0.7076  |
 
+<img width="1166" height="513" alt="Unknown-8" src="https://github.com/user-attachments/assets/8626e5b9-b28d-4a8a-8d31-1fe840ac7c46" />
+<img width="698" height="507" alt="Unknown-9" src="https://github.com/user-attachments/assets/39c6c618-9db7-4b42-9c38-9a7a95827aa4" />
+<img width="698" height="507" alt="Unknown-10" src="https://github.com/user-attachments/assets/1dc1443a-0965-4582-97e3-eb4e02f0c42e" />
 
 ## 🔍 Principais Fatores que Influenciam a Evasão
 
@@ -33,6 +36,8 @@ Cada modelo foi avaliado com as técnicas de **Oversampling** e **Undersampling*
 - **Serviço de Internet Fibra Óptica**: maior risco, possivelmente devido à concorrência.  
 - **Ausência de Serviços Adicionais** (Suporte Técnico, Segurança Online, Backup Online): aumenta a probabilidade de cancelamento.  
 - **Faturamento Mensal Alto**: associado a maior risco.  
+<img width="784" height="534" alt="Unknown-13" src="https://github.com/user-attachments/assets/91e5c9f6-ed23-4223-86ee-d7d75e3ccbe9" />
+<img width="1384" height="584" alt="Unknown-14" src="https://github.com/user-attachments/assets/946029e5-5367-4cc6-bf88-c7ed6f3d3aff" />
 
 ## 💡 Estratégias de Retenção
 
