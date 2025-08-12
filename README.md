@@ -2,7 +2,7 @@
 
 # 📊 Análise e Previsão de Evasão de Clientes – Telecom X
 
-Este repositório contém o projeto de análise exploratória e modelagem preditiva para identificar clientes com alto risco de evasão (churn) em uma empresa de telecomunicações. O foco principal foi maximizar a métrica **Recall**, priorizando a correta identificação de clientes propensos ao cancelamento.
+Este repositório contém o projeto de análise exploratória e modelagem preditiva para identificar clientes com alto risco de evasão em uma empresa de telecomunicações. O foco principal foi maximizar a métrica **Recall**, priorizando a correta identificação de clientes propensos ao cancelamento.
 
 ## 🚀 Objetivo
 O projeto busca prever a evasão de clientes usando técnicas de **Machine Learning** e propor estratégias de retenção baseadas nos principais fatores identificados como determinantes para o churn.
